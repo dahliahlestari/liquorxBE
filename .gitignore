@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*    # untuk file env lain (misal .env.production)
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.sqlite
+*.sqlite3
+coverage/
+dist/
+build/
